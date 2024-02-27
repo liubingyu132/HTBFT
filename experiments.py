@@ -309,7 +309,7 @@ descrFile = "description"
 
 runDocker  = False      # to run the code within docker contrainers
 docker     = "docker"
-dockerBase = "damysus"  # name of the docker container
+dockerBase = "htbft"  # name of the docker container
 networkLat = 0          # network latency in ms
 networkVar = 0          # variation of the network latency
 dockerMem  = 0          # memory used by containers (0 means no constraints)
